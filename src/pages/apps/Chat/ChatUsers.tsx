@@ -46,7 +46,7 @@ const ChatUsers = ({ onUserSelect }: ChatUsersProps) => {
                     <div className="flex-1">
                         <h5 className="mt-0 mb-0 font-15">
                             <Link to="/apps/contacts/profile" className="text-reset">
-                                Nik Patel
+                                Abdul Hadi
                             </Link>
                         </h5>
                         <p className="mt-1 mb-0 text-muted font-14">

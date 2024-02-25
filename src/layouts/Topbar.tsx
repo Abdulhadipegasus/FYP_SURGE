@@ -309,7 +309,7 @@ const Topbar = ({
               <ProfileDropdown
                 profilePic={profilePic}
                 menuItems={ProfileMenus}
-                username={"Nik Patel"}
+                username={"Abdul hadi"}
                 userTitle={"Founder"}
               />
             </li>

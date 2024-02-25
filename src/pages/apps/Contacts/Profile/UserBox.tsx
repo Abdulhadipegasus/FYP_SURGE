@@ -10,7 +10,7 @@ const UserBox = () => {
         <Card className="text-center">
             <Card.Body>
                 <img src={profileImg} className="rounded-circle avatar-xl img-thumbnail" alt="" />
-                <h4 className="mt-3 mb-0">Nik G. Patel</h4>
+                <h4 className="mt-3 mb-0">Abdul Hadi</h4>
                 <p className="text-muted">@webdesigner</p>
                 <Button variant="success" className="btn-xs waves-effect mb-2 waves-light">
                     Follow
@@ -21,7 +21,7 @@ const UserBox = () => {
                 <div className="text-start mt-3">
                     <h4 className="font-13 text-uppercase">About Me :</h4>
                     <p className="text-muted font-13 mb-3">
-                        Hi I'm Johnathn Deo,has been the industry's standard dummy text ever since the 1500s, when an
+                        Hi I'm Abdul Hadi,has been the industry's standard dummy text ever since the 1500s, when an
                         unknown printer took a galley of type.
                     </p>
 
@@ -29,7 +29,7 @@ const UserBox = () => {
                         <tbody>
                             <tr>
                                 <th scope="row">Full Name :</th>
-                                <td className="text-muted">Nik G. Patel</td>
+                                <td className="text-muted">Abdul Hadi Asif</td>
                             </tr>
                             <tr>
                                 <th scope="row">Mobile :</th>
